@@ -1,37 +1,105 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dicasparacasais/dicas/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="pt-BR"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="pt-BR"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="pt-BR"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="pt-BR"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="pingback" href="https://vicentecarvalhos.site/xmlrpc.php" />
+<!-- OptimizePress SEO options -->
+<title>Padre Explica Como Fazer Um Relacionamento dar Certo! &mdash; Guia Prático</title>
+<meta name="description" content="Padre Explica Como Fazer Um Relacionamento dar Certo!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://vicentecarvalhos.site/dicas-2/" />
+<meta property="og:title" content="Padre Explica Como Fazer Um Relacionamento dar Certo! &mdash; Guia Prático" />
+<meta property="og:description" content="Padre Explica Como Fazer Um Relacionamento dar Certo!" />
+<!-- OptimizePress SEO options end -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Guia Prático &raquo;" href="https://vicentecarvalhos.site/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Guia Prático &raquo;" href="https://vicentecarvalhos.site/comments/feed/" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDTMDZG');</script>
+<!-- End Google Tag Manager -->		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/vicentecarvalhos.site\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='optimizepress-page-style-css'  href='https://vicentecarvalhos.site/wp-content/themes/optimizePressTheme/pages/marketing/1/style.min.css?ver=2.5.19.1' type='text/css' media='all' />
+<link rel='stylesheet' id='optimizepress-default-css'  href='https://vicentecarvalhos.site/wp-content/themes/optimizePressTheme/lib/assets/default.min.css?ver=2.5.19.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://vicentecarvalhos.site/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://vicentecarvalhos.site/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var OptimizePress = {"ajaxurl":"https:\/\/vicentecarvalhos.site\/wp-admin\/admin-ajax.php","SN":"optimizepress","version":"2.5.19.1","script_debug":".min","localStorageEnabled":"","wp_admin_page":"","op_live_editor":"1","op_page_builder":"1","op_create_new_page":"","imgurl":"https:\/\/vicentecarvalhos.site\/wp-content\/themes\/optimizePressTheme\/lib\/images\/","OP_URL":"https:\/\/vicentecarvalhos.site\/wp-content\/themes\/optimizePressTheme\/","OP_JS":"https:\/\/vicentecarvalhos.site\/wp-content\/themes\/optimizePressTheme\/lib\/js\/","OP_PAGE_BUILDER_URL":"","include_url":"https:\/\/vicentecarvalhos.site\/wp-includes\/","op_autosave_interval":"300","op_autosave_enabled":"N","paths":{"url":"https:\/\/vicentecarvalhos.site\/wp-content\/themes\/optimizePressTheme\/","img":"https:\/\/vicentecarvalhos.site\/wp-content\/themes\/optimizePressTheme\/lib\/images\/","js":"https:\/\/vicentecarvalhos.site\/wp-content\/themes\/optimizePressTheme\/lib\/js\/","css":"https:\/\/vicentecarvalhos.site\/wp-content\/themes\/optimizePressTheme\/lib\/css\/"},"social":{"twitter":"optimizepress","facebook":"optimizepress","googleplus":"111273444733787349971"},"flowplayerHTML5":"https:\/\/vicentecarvalhos.site\/wp-content\/themes\/optimizePressTheme\/lib\/modules\/blog\/video\/flowplayer\/flowplayer.swf","flowplayerKey":"","flowplayerLogo":"","mediaelementplayer":"https:\/\/vicentecarvalhos.site\/wp-content\/themes\/optimizePressTheme\/lib\/modules\/blog\/video\/mediaelement\/","pb_unload_alert":"This page is asking you to confirm that you want to leave - data you have entered may not be saved.","pb_save_alert":"Please make sure you are happy with all of your options as some options will not be able to be changed for this page later.","search_default":"Search...","ems_providers":[],"optimizemember":{"enabled":false,"version":"0"},"OP_LEADS_URL":"https:\/\/my.optimizeleads.com\/","OP_LEADS_THEMES_URL":"https:\/\/my.optimizeleads.com\/build\/themes\/","google_recaptcha_site_key":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://vicentecarvalhos.site/wp-content/themes/optimizePressTheme/lib/js/op-jquery-base-all.min.js?ver=2.5.19.1'></script>
+<script type='text/javascript' src='https://vicentecarvalhos.site/wp-content/themes/optimizePressTheme/lib/modules/blog/video/flowplayer/flowplayer.min.js?ver=2.5.19.1'></script>
+<script type='text/javascript' src='https://vicentecarvalhos.site/wp-content/themes/optimizePressTheme/lib/js/op-video-all.min.js?ver=2.5.19.1'></script>
+<link rel='https://api.w.org/' href='https://vicentecarvalhos.site/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://vicentecarvalhos.site/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://vicentecarvalhos.site/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel="canonical" href="https://vicentecarvalhos.site/dicas-2/" />
+<link rel='shortlink' href='https://vicentecarvalhos.site/?p=758' />
+<link rel="alternate" type="application/json+oembed" href="https://vicentecarvalhos.site/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvicentecarvalhos.site%2Fdicas-2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://vicentecarvalhos.site/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvicentecarvalhos.site%2Fdicas-2%2F&#038;format=xml" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dicasparacasais/dicas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+        <!--[if (gte IE 6)&(lte IE 8)]>
+            <script type="text/javascript" src="https://vicentecarvalhos.site/wp-content/themes/optimizePressTheme/lib/js/selectivizr-1.0.2-min.js?ver=1.0.2"></script>
+        <![endif]-->
+        <!--[if lt IE 9]>
+            <script src="https://vicentecarvalhos.site/wp-content/themes/optimizePressTheme/lib/js//html5shiv.min.js"></script>
+        <![endif]-->
+    
+            <style type="text/css" id="op_header_css">
+            a,a:visited{text-decoration:none}a:hover{text-decoration:none}.footer-navigation ul li a{text-decoration:none}.footer-navigation ul li a:hover{text-decoration:none}.footer a{text-decoration:none}.footer a:hover{text-decoration:none}.footer small.footer-copyright a{text-decoration:none}.footer small.footer-copyright a:hover{text-decoration:none}.footer small.footer-disclaimer a{text-decoration:none}.footer small.footer-disclaimer a:hover{text-decoration:none}
+            </style>
+            </head>
+<body class="page-template-default page page-id-758 op-live-editor-page op-theme">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDTMDZG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div class="container main-content">
+        <div id="content_area" class=""><div style='background:#1F1F1F;background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #1F1F1F), color-stop(100%, #1F1F1F));background:-webkit-linear-gradient(top, #1F1F1F 0%, #1F1F1F 100%);background:-moz-linear-gradient(top, #1F1F1F 0%, #1F1F1F 100%);background:-ms-linear-gradient(top, #1F1F1F 0%, #1F1F1F 100%);background:-o-linear-gradient(top, #1F1F1F 0%, #1F1F1F 100%);background:linear-gradient(to bottom, #1F1F1F 0%, #1F1F1F 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#1F1F1F, endColorstr=#1F1F1F, GradientType=0);padding-top:15px;padding-bottom:-20px;border-top-width:px;border-top-style:solid;border-top-color:;border-bottom-width:px;border-bottom-style:solid;border-bottom-color:;'  class="row one-column cf ui-sortable section   " id="le_body_row_1" data-style="eyJlbGVtZW50SWQiOiJsZV9ib2R5X3Jvd18xIiwiYmFja2dyb3VuZENvbG9yU3RhcnQiOiIjMUYxRjFGIiwiYmFja2dyb3VuZENvbG9yRW5kIjoiIzFGMUYxRiIsInBhZGRpbmdUb3AiOiIxNSIsInBhZGRpbmdCb3R0b20iOiItMjAiLCJib3JkZXJUb3BXaWR0aCI6IiIsImJvcmRlclRvcENvbG9yIjoiIiwiYm9yZGVyQm90dG9tV2lkdGgiOiIiLCJib3JkZXJCb3R0b21Db2xvciI6IiIsInNlY3Rpb25TZXBhcmF0b3JUeXBlIjoibm9uZSIsInNlY3Rpb25TZXBhcmF0b3JTdHlsZSI6IiIsImV4dHJhcyI6eyJhbmltYXRpb25FZmZlY3QiOiIiLCJhbmltYXRpb25EZWxheSI6IiJ9LCJyb3dTY3JvbGxGaXhlZFBvc2l0aW9uIjoibm9uZSIsInJvd1Njcm9sbEZpeGVkTW9iaWxlIjpmYWxzZSwiYWRkb24iOnt9fQ=="><div class="fixed-width"><div class="one-column column cols" id="le_body_row_1_col_1"><div class="element-container cf" data-style="" id="le_body_row_1_col_1_el_1"><div class="element"> <h3 style='font-size:17px;font-family:Verdana, Geneva, sans-serif;text-align:center;'><h1 class="title style-scope ytd-video-primary-info-renderer" style="text-align: center;"><span style="color: #ffffff;">Padre Explica Como Fazer Um Relacionamento dar Certo!</span></h1></h3> </div></div><div class="element-container cf" data-style="" id="le_body_row_1_col_1_el_2"><div class="element"> <div class="video-plugin-new embed" style="max-width:100%; width:716px; height:auto; padding-top:0; padding-bottom:0; margin:0 auto;margin:0 auto; border: 5px solid #d8d8d8;margin-bottom: 20px;"><div style="width:716px;height:0;  padding-bottom: 55.865921787709%; padding-top:0;"><div style="position: relative; height: 0; padding-bottom: 56.2%; padding-top: 0;">
+            <iframe style="position: absolute !important; width: 100% !important; height: 100% !important; z-index: 100" src="https://www.youtube-nocookie.com/embed/9kSN47BFB8U?wmode=opaque&showinfo=0&autoplay=0&controls=0&modestbranding=1&rel=0&start=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+            <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: 60px; background-color: transparent; z-index: 101"></div></div></div></div> </div></div></div></div></div><div style='padding-top:20px;border-top-width:px;border-top-style:solid;border-top-color:;border-bottom-width:px;border-bottom-style:solid;border-bottom-color:;'  class="row one-column cf ui-sortable   " id="le_body_row_2" data-style="eyJlbGVtZW50SWQiOiJsZV9ib2R5X3Jvd18yIiwicGFkZGluZ1RvcCI6IjIwIiwiYm9yZGVyVG9wV2lkdGgiOiIiLCJib3JkZXJUb3BDb2xvciI6IiIsImJvcmRlckJvdHRvbVdpZHRoIjoiIiwiYm9yZGVyQm90dG9tQ29sb3IiOiIiLCJzZWN0aW9uU2VwYXJhdG9yVHlwZSI6Im5vbmUiLCJzZWN0aW9uU2VwYXJhdG9yU3R5bGUiOiIiLCJleHRyYXMiOnsiYW5pbWF0aW9uRWZmZWN0IjoiIiwiYW5pbWF0aW9uRGVsYXkiOiIifSwicm93U2Nyb2xsRml4ZWRQb3NpdGlvbiI6Im5vbmUiLCJhZGRvbiI6e319"><div class="fixed-width"><div class="one-column column cols" id="le_body_row_2_col_1"><div class="element-container cf" data-style="" id="le_body_row_2_col_1_el_1"><div class="element"> <div style="height:15px"></div> </div></div><div class="element-container cf btn-compra" data-style="eyJhZHZhbmNlZENsYXNzIjoiYnRuLWNvbXByYSIsImZhZGVJbiI6IjAifQ==" id="le_body_row_2_col_1_el_2"><div class="element"><div style="text-align:center"><style type="text/css">#btn_1_60da621653a8ecb85e71bcd116eb4164 .text {font-size:26px;color:#d60000;font-family:"Helvetica Neue", Helvetica, sans-serif;font-weight:bold;}#btn_1_60da621653a8ecb85e71bcd116eb4164 .subtext {font-size:14px;color:#d60000;font-weight:normal;}#btn_1_60da621653a8ecb85e71bcd116eb4164 {padding:19px 10px;border-color:#FFF907;border-width:1px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;background:#FFDE26;background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFDE26), color-stop(100%, #ffeb0f));background:-webkit-linear-gradient(top, #FFDE26 0%, #ffeb0f 100%);background:-moz-linear-gradient(top, #FFDE26 0%, #ffeb0f 100%);background:-ms-linear-gradient(top, #FFDE26 0%, #ffeb0f 100%);background:-o-linear-gradient(top, #FFDE26 0%, #ffeb0f 100%);background:linear-gradient(to bottom, #FFDE26 0%, #ffeb0f 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFDE26, endColorstr=#ffeb0f, GradientType=0);box-shadow:0px 10px 0px 0px rgba(255,249,7,1),inset 0px 0px 0px 0px rgba(255,255,255,1);}#btn_1_60da621653a8ecb85e71bcd116eb4164 .gradient {-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}#btn_1_60da621653a8ecb85e71bcd116eb4164 .shine {-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}#btn_1_60da621653a8ecb85e71bcd116eb4164 .active {-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}#btn_1_60da621653a8ecb85e71bcd116eb4164 .hover {-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}</style><a href="http://mon.net.br/1b53q?src=fb|desktop|" target="_blank" id="btn_1_60da621653a8ecb85e71bcd116eb4164" class="css-button style-1"><span class="text">COMPRAR AGORA</span><span class="subtext"></span><span class="hover"></span><span class="active"></span></a></div></div></div><div class="element-container cf" data-style="" id="le_body_row_2_col_1_el_3"><div class="element"> <div style="height:40px"></div> </div></div></div></div></div><div style='padding-top:50px;border-top-width:px;border-top-style:solid;border-top-color:;border-bottom-width:px;border-bottom-style:solid;border-bottom-color:;'  class="row one-column cf ui-sortable   " id="le_body_row_3" data-style="eyJlbGVtZW50SWQiOiJsZV9ib2R5X3Jvd18zIiwicGFkZGluZ1RvcCI6IjUwIiwiYm9yZGVyVG9wV2lkdGgiOiIiLCJib3JkZXJUb3BDb2xvciI6IiIsImJvcmRlckJvdHRvbVdpZHRoIjoiIiwiYm9yZGVyQm90dG9tQ29sb3IiOiIiLCJzZWN0aW9uU2VwYXJhdG9yVHlwZSI6Im5vbmUiLCJzZWN0aW9uU2VwYXJhdG9yU3R5bGUiOiIiLCJleHRyYXMiOnsiYW5pbWF0aW9uRWZmZWN0IjoiIiwiYW5pbWF0aW9uRGVsYXkiOiIifSwicm93U2Nyb2xsRml4ZWRQb3NpdGlvbiI6Im5vbmUiLCJhZGRvbiI6e319"><div class="fixed-width"><div class="one-column column cols" id="le_body_row_3_col_1"><div class="element-container cf" data-style="" id="le_body_row_3_col_1_el_1"><div class="element"> <div class="guarantee-box-4">
+    <div class="guarantee-box-4-internal">
+        <img src="https://vicentecarvalhos.site/wp-content/themes/optimizePressTheme/lib/assets/images/guarantee_box/money-back-logo.png" width="134" height="133" alt="" />
+        <div class="guarantee-content">
+            <h2 style='font-family:Verdana, Geneva, sans-serif;'><center>30 DIAS de GARANTIA TOTAL!</center></h2>
+            <p style='font-family:Verdana, Geneva, sans-serif;text-align: center;'><strong>Atenção:</strong> você pode comprar esse programa com total tranquilidade, se depois de 30 dias você não estiver satisfeito, ou se não tiver resultado, nós devolveremos totalmente seu dinheiro, basta enviar um e-mail para o endereço que vai encontrar dentro do guia.</p>
+        </div>
+    </div>
+</div> </div></div></div></div></div><div style='background-image:url(https://supererecoes.com/wp-content/uploads/2017/10/back11-1.png);background-repeat:repeat;background-attachment:;padding-top:7px;border-top-width:px;border-top-style:solid;border-top-color:;border-bottom-width:px;border-bottom-style:solid;border-bottom-color:;'  class="row one-column cf ui-sortable   " id="le_body_row_4" data-style="eyJlbGVtZW50SWQiOiJsZV9ib2R5X3Jvd180IiwiYmFja2dyb3VuZEltYWdlIjoidXJsKGh0dHBzOi8vc3VwZXJlcmVjb2VzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8xMC9iYWNrMTEtMS5wbmcpIiwiYmFja2dyb3VuZFBvc2l0aW9uIjoidGlsZSIsImJhY2tncm91bmRJbWFnZUNvbG9yIjoiIiwiYmFja2dyb3VuZEltYWdlQ29sb3JPcGFjaXR5IjoiMCIsImJhY2tncm91bmRQYXJhbGF4IjpmYWxzZSwicGFkZGluZ1RvcCI6IjciLCJib3JkZXJUb3BXaWR0aCI6IiIsImJvcmRlclRvcENvbG9yIjoiIiwiYm9yZGVyQm90dG9tV2lkdGgiOiIiLCJib3JkZXJCb3R0b21Db2xvciI6IiIsInNlY3Rpb25TZXBhcmF0b3JUeXBlIjoibm9uZSIsInNlY3Rpb25TZXBhcmF0b3JTdHlsZSI6IiIsImV4dHJhcyI6eyJhbmltYXRpb25FZmZlY3QiOiIiLCJhbmltYXRpb25EZWxheSI6IiJ9LCJyb3dTY3JvbGxGaXhlZFBvc2l0aW9uIjoibm9uZSIsImFkZG9uIjp7fX0="><div style='opacity:0.0;background:;'  class="op-row-image-color-overlay"></div><div class="fixed-width"><div class="one-column column cols" id="le_body_row_4_col_1"><div class="element-container cf" data-style="" id="le_body_row_4_col_1_el_1"><div class="element"> 
+                <div class="image-caption" style='width:0px;margin-top:0px;margin-bottom:px;margin-right:auto;margin-left:auto;'><img alt="" src="http://supererecoes.com/wp-content/uploads/2017/10/banner11.fw_.png"  border="0" class="full-width" /></div>
+             </div></div><div class="element-container cf" data-style="" id="le_body_row_4_col_1_el_2"><div class="element"> 
+                <div class="image-caption" style='width:400px;margin-top:0px;margin-bottom:px;margin-right:auto;margin-left:auto;'><img alt="" src="http://supererecoes.com/wp-content/uploads/2017/10/site-seguro.fw_.png"  border="0" class="full-width" /></div>
+             </div></div></div></div></div></div>    </div><!-- container -->
+<script type='text/javascript' src='https://vicentecarvalhos.site/wp-includes/js/comment-reply.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://vicentecarvalhos.site/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://vicentecarvalhos.site/wp-content/themes/optimizePressTheme/lib/js/op-front-all.min.js?ver=2.5.19.1'></script>
+<script type='text/javascript' src='https://vicentecarvalhos.site/wp-content/themes/optimizePressTheme/lib/js/menus.min.js?ver=2.5.19.1'></script>
+</body>
+</html>
